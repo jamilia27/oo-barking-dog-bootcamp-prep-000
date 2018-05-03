@@ -1,8 +1,5 @@
 # Your code goes here!
 class Dog
-  def initaliza(name)
-    @name = name
-  end
   def name=(name)
     @name = name
   end
